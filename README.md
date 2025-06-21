@@ -1,4 +1,4 @@
-# 🧠 PsicoApp API
+# 🧠 Example: PsicoApp API
 
 This is the main API for **PsicoApp**, an intelligent management system designed for psychologists.
 
